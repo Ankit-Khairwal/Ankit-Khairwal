@@ -1,6 +1,6 @@
 # Hi there, I'm [Ankit] 👋
 
-Welcome to my GitHub profile! I'm a [Frontend Developer] with a passion for [User Friendly Interface]. I love working on projects that [describe what you enjoy doing, e.g., solve real-world problems, enhance user experiences, etc.].
+Welcome to my GitHub profile! I'm a [Frontend Developer] with a passion for [User Friendly Interface].
 
 ## 🔧 Technologies & Tools
 
