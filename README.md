@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a [Frontend Developer] with a passion for [Use
 
 ## 🌱 Currently Learning
 
-- [e.g., React,Next.jsetc.]
+- [e.g., React,Next.js etc.]
 
 ## 📫 How to Reach Me
 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a [Frontend Developer] with a passion for [Use
 
 Here are a few projects I've worked on:
 
-1. **[Project Name 1](https://crimepetrol.netlify.app/)
+1. **[Crime Management](https://crimepetrol.netlify.app/)
 
 ## 🎉 Fun Facts
 
