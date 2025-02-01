@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a [Frontend Developer] with a passion for [Use
 
 - **Email**: [khairwalankit7@gmail.com]
 - **LinkedIn**: [https://www.linkedin.com/in/ankit-khairwal-85a10a2a7/)
-- **Portfolio**: [portfolio-silk-beta-93.vercel.app)
+- **Portfolio**: [https://portfolio-silk-beta-93.vercel.app/)
 
 ## 🚀 Projects
 
