@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm a [Frontend Developer] with a passion for [Use
 
 Here are a few projects I've worked on:
 
-1. *Crime Management*:(https://crimepetrol.netlify.app/)
-2. *Auth,Login,Register Page*:(https://login-lac-two.vercel.app/)
-3. *Usability Hub*:(https://my-website-beige-delta.vercel.app/)
+1. *AI Interviewt*:(https://prep-interview-psi.vercel.app/)
+2. *Recipe App*:(https://recipe-ten-ashen.vercel.app/)
+3. *Movie App*:(https://movie-app-ten-omega-14.vercel.app/)
 
 ## 🎉 Fun Facts
 
